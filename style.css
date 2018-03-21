@@ -14,11 +14,50 @@ p {
   /* text-decoration: underline rgba(); */
   border-bottom: 3px solid #f1f1f1;
   padding-bottom: 20px;
-  width: 30%;
+  width: 75%;
+}
+
+.link {
+  color: orange;
+  text-align: right;
+  position: absolute;
+  top: 50px;
+  right: 30px;
+  bottom: 100px;
+  width: 100px;
+  text-align:right;
+  font-family: Raleway;
+  font-weight: 700;
 }
 
 h4 {
   font-weight: 700;
   font-family: "Cedarville Cursive";
   text-align: center;
+}
+
+.art {
+  font-family: Raleway;
+  font-size: 16px;
+  border-bottom: 3px solid #f1f1f1;
+  width: 50%;
+
+}
+
+h5  {
+
+  text-align: center;
+}
+
+#info {
+  /* font-weight: 700; */
+  width: 75%;
+  /* font-size: 125%; */
+}
+
+h2 {
+  font-family: Raleway;
+  font-weight: 400;
+  margin-left: 1.66%;
+
 }
