@@ -14,15 +14,15 @@ p {
   /* text-decoration: underline rgba(); */
   border-bottom: 3px solid #f1f1f1;
   padding-bottom: 20px;
-  width: 75%;
+  width: 96.6%;
 }
 
 .link {
   color: orange;
   text-align: right;
   position: absolute;
-  top: 50px;
-  right: 30px;
+  top: 40px;
+  right: 2.33%;
   bottom: 100px;
   width: 100px;
   text-align:right;
@@ -40,7 +40,7 @@ h4 {
   font-family: Raleway;
   font-size: 16px;
   border-bottom: 3px solid #f1f1f1;
-  width: 50%;
+  width: 30%;
 
 }
 
@@ -51,7 +51,7 @@ h5  {
 
 #info {
   /* font-weight: 700; */
-  width: 66%%;
+  width: 96.6%;
   /* font-size: 125%; */
 }
 
