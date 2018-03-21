@@ -65,7 +65,7 @@ h2 {
 #githublink {
   color: orange;
   text-align: center;
-  font-family: "Cedarville cursive";
+  font-family: Cedarville cursive;
   font-weight: 700;
   position: relative;
   bottom: 30px;
@@ -75,14 +75,4 @@ h2 {
 #cclink {
   position: relative;
   bottom: 20px;
-}
-
-#duplink {
-  color: orange;
-  text-align: center;
-  font-family: "Cedarville cursive";
-  font-weight: 700;
-  position: relative;
-  bottom: -10px;
-
 }
